@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+.main-container {
+  width: 500px;
+  height: 500px;
+  background: url("https://media.istockphoto.com/photos/javascript-inscription-against-laptop-and-code-background-learn-picture-id1284271878?b=1&k=6&m=1284271878&s=170667a&w=0&h=Kdy9ao6MfxSp2jcfE6562Q_y3Va4uPpaZ7FAVbb2pHU=");
+  background-size: cover;
+  margin: 40px auto;
+}
+
+.title {
+  width: 255px;
+  height: 50px;
+  margin-top: 60px;
+  margin-left: 120px;
+  font-family: "Poppins", sans-serif;
+  color: indigo;
+  text-align: center;
+  display: inline-block;
+  padding: 10px 5px;
+  background-color: burlywood;
+  text-decoration: darkviolet;
+  text-transform: uppercase;
+  font-size: large;
+  white-space: nowrap;
+}
+
+#body {
+  background-color: rgb(83, 83, 107);
+  background: url("https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTR8fGphdmFzY3JpcHQlMjBpbWFnZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-size: cover;
+}
+
+.btn {
+  width: 100%;
+}
+
+#result {
+  width: 100%;
+  border: 6px thin black;
+  height: 40px;
+  font-weight: bolder;
+}
+
+.table-content {
+  padding: 0 120px;
+  margin-bottom: 0;
+}
